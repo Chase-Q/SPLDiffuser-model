@@ -1,2 +1,2 @@
-# APQDiffuser-model
-Due to the large size of the dataset, please contact us if access is required：henryfo.zhang@polyu.edu.hk
+# SPLDiffuser-model
+Due to the large size of the dataset, please contact us if access is required：hongfu2233@126.com
